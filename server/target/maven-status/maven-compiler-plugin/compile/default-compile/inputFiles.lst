@@ -1,0 +1,15 @@
+C:\Users\ROG\Desktop\tp\tp_fluter_api\src\main\java\com\example\produit\config\DataInitializer.java
+C:\Users\ROG\Desktop\tp\tp_fluter_api\src\main\java\com\example\produit\dto\ProduitRequest.java
+C:\Users\ROG\Desktop\tp\tp_fluter_api\src\main\java\com\example\produit\entity\Produit.java
+C:\Users\ROG\Desktop\tp\tp_fluter_api\src\main\java\com\example\produit\ProduitApplication.java
+C:\Users\ROG\Desktop\tp\tp_fluter_api\src\main\java\com\example\produit\exception\BadRequestException.java
+C:\Users\ROG\Desktop\tp\tp_fluter_api\src\main\java\com\example\produit\config\WebConfig.java
+C:\Users\ROG\Desktop\tp\tp_fluter_api\src\main\java\com\example\produit\dto\ProduitResponse.java
+C:\Users\ROG\Desktop\tp\tp_fluter_api\src\main\java\com\example\produit\repository\ProduitRepository.java
+C:\Users\ROG\Desktop\tp\tp_fluter_api\src\main\java\com\example\produit\exception\GlobalExceptionHandler.java
+C:\Users\ROG\Desktop\tp\tp_fluter_api\src\main\java\com\example\produit\mapper\ProduitMapper.java
+C:\Users\ROG\Desktop\tp\tp_fluter_api\src\main\java\com\example\produit\service\impl\ProduitServiceImpl.java
+C:\Users\ROG\Desktop\tp\tp_fluter_api\src\main\java\com\example\produit\controller\ProduitController.java
+C:\Users\ROG\Desktop\tp\tp_fluter_api\src\main\java\com\example\produit\service\ProduitService.java
+C:\Users\ROG\Desktop\tp\tp_fluter_api\src\main\java\com\example\produit\exception\ResourceNotFoundException.java
+C:\Users\ROG\Desktop\tp\tp_fluter_api\src\main\java\com\example\produit\exception\ErrorResponse.java

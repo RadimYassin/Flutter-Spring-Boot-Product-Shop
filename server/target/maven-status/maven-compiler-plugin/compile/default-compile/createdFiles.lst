@@ -1,0 +1,14 @@
+com\example\produit\exception\BadRequestException.class
+com\example\produit\controller\ProduitController.class
+com\example\produit\dto\ProduitRequest.class
+com\example\produit\repository\ProduitRepository.class
+com\example\produit\exception\ErrorResponse.class
+com\example\produit\mapper\ProduitMapperImpl.class
+com\example\produit\service\impl\ProduitServiceImpl.class
+com\example\produit\ProduitApplication.class
+com\example\produit\service\ProduitService.class
+com\example\produit\entity\Produit.class
+com\example\produit\dto\ProduitResponse.class
+com\example\produit\mapper\ProduitMapper.class
+com\example\produit\exception\GlobalExceptionHandler.class
+com\example\produit\exception\ResourceNotFoundException.class
